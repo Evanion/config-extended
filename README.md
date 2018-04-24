@@ -1,10 +1,11 @@
 <a href="https://codeclimate.com/github/Evanion/config-extended/maintainability"><img src="https://api.codeclimate.com/v1/badges/bb7eafcb9c2fdb96697a/maintainability" /></a>
 <a href="https://codeclimate.com/github/Evanion/config-extended/test_coverage"><img src="https://api.codeclimate.com/v1/badges/bb7eafcb9c2fdb96697a/test_coverage" /></a>
+[![Greenkeeper badge](https://badges.greenkeeper.io/Evanion/config-extended.svg)](https://greenkeeper.io/)
 [![CircleCI](https://circleci.com/gh/Evanion/config-extended.svg?style=svg)](https://circleci.com/gh/Evanion/config-extended)
 
 # config-extended
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/Evanion/config-extended.svg)](https://greenkeeper.io/)
+
 An easy to use package to handle configuration in your Node.js application.
 This package extends the standard [config](https://www.npmjs.com/package/config) package to automatically resolve
 environment variables.
