@@ -1,5 +1,8 @@
 # Changelog
 
+## 1.0.3
+* ESLint update
+
 ## 1.0.2
 * Correct engine limit
 
