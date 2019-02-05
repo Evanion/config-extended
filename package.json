@@ -64,7 +64,7 @@
     "eslint": "^5.0.1",
     "eslint-plugin-jest": "^22.0.0",
     "husky": "^1.0.0",
-    "istanbul-api": "1.2.2",
+    "istanbul-api": "2.1.0",
     "istanbul-reports": "2.0.0",
     "jest": "^23.4.1",
     "lint-staged": "^8.0.5",
