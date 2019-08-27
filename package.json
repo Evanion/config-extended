@@ -4,7 +4,7 @@
   "description": "based on feathers-configuration and uses node-config as base",
   "main": "dist/config.js",
   "engines": {
-    "node": ">=8.0.0"
+    "node": ">=9.0.0"
   },
   "scripts": {
     "build": "babel --ignore **__mocks__/*.js,**__tests__/*.js -d ./dist ./src -s",
@@ -67,7 +67,7 @@
     "istanbul-api": "2.1.4",
     "istanbul-reports": "2.2.2",
     "jest": "^23.4.1",
-    "lint-staged": "^8.0.5",
+    "lint-staged": "^9.0.0",
     "prettier": "^1.12.1"
   }
 }
