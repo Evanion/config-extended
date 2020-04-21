@@ -67,7 +67,7 @@
     "istanbul-api": "2.1.4",
     "istanbul-reports": "2.2.2",
     "jest": "^23.4.1",
-    "lint-staged": "^9.0.0",
+    "lint-staged": "^10.1.7",
     "prettier": "^1.12.1"
   }
 }
